@@ -1,0 +1,21 @@
+
+Pregunta 7 — Explicar conceptos básicos de Git
+Abre el archivo conceptos-git.txt y escribe una explicación corta de los siguientes conceptos
+
+Repositorio:
+Un repositorio es el lugar donde se guardan los archivos y cambios de un proyecto.
+Permite organizar 
+el trabajo y mantener un historial de modificaciones realizadas.
+
+
+Commit:Un commit es un registro de los cambios realizados
+ en un proyecto.
+
+Sirve para guardar avances y poder volver a versiones anteriores si es necesario.
+
+
+Push:
+El comando push permite enviar los cambios del repositorio local a GitHub.
+
+
+Así los archivos quedan publicados y respaldados en internet.
